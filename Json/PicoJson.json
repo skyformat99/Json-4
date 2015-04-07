@@ -1,0 +1,13 @@
+{
+  "Test": {
+      "Int": 1234,
+          "Double": 0.1234,
+              "String": "JSON Test あか",
+                  "Bool": true,
+                      "Array": [
+                            "JSON TEST 1-1",
+                                  "JSON TEST 1-2",
+                                        "JSON TEST 1-3"
+                                            ]
+                                              }
+                                              }
